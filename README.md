@@ -52,6 +52,11 @@ Update the API endpoint and other settings in the `.env` file as needed.
     App.js
     index.js
 ```
+## Demo Video 
+
+https://github.com/user-attachments/assets/8ba25270-d609-40c9-a41a-4e904d5283c0
+
+
 
 ## Contributing
 
